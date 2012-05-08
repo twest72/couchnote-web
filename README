@@ -1,0 +1,6 @@
+couchnote-web
+=============
+
+web client for couchnote
+
+project is depend on couchnote (https://github.com/twest72/couchnote) and gcouch (https://github.com/twest72/gcouch) 
